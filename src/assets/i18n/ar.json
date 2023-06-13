@@ -1,0 +1,76 @@
+{
+  "LOGIN": "تسجيل الدخول",
+  "LOGOUT": "تسجيل الخروج",
+  "REGISTER": "التسجيل",
+  "ACCOUNT": "الحساب",
+  "RESERVATION": "الحجز",
+  "MENU": "القائمة",
+  "NAV": {
+    "HOME": "الرئيسية",
+    "PAGES": "الصفحات",
+    "CHEFS": "الطهاة",
+    "CHEF": "طاهٍ",
+    "SHOP": "المتجر",
+    "SINGLE_MENU": "قائمة فردية",
+    "CART": "السلة",
+    "CHECKOUT": "الدفع",
+    "FAQS": "الأسئلة الشائعة",
+    "PRICING": "الأسعار",
+    "TERMS_CONDITIONS": "الشروط والأحكام",
+    "LANDING": "الصفحة الرئيسية",
+    "404_PAGE": "صفحة 404",
+    "OTHERS": "أخرى",
+    "EXTERNAL_LINK": "رابط خارجي",
+    "MENU_ITEM": "عنصر القائمة",
+    "CONTACT": "اتصل بنا",
+    "ABOUT_US": "معلومات عنا",
+    "ADMIN": "المشرف"
+  },
+  "ADMIN_NAV": {
+    "DASHBOARD": "لوحة التحكم",
+    "MENU_ITEMS": "عناصر القائمة",
+    "CATEGORIES": "الفئات",
+    "MENU_ITEMS_LIST": "قائمة عناصر القائمة",
+    "MENU_ITEM_DETAIL": "تفاصيل عنصر القائمة",
+    "ADD_MENU_ITEM": "إضافة عنصر القائمة",
+    "SALES": "المبيعات",
+    "ORDERS": "الطلبات",
+    "TRANSACTIONS": "المعاملات",
+    "USERS": "المستخدمين",
+    "RESERVATIONS": "الحجوزات",
+    "CUSTOMERS": "العملاء",
+    "COUPONS": "القسائم",
+    "WITHDRAWAL": "السحب",
+    "ANALYTICS": "التحليلات",
+    "REFUND": "رد الأموال",
+    "FOLLOWERS": "المتابعين",
+    "SUPPORT": "الدعم",
+    "REVIEWS": "التقييمات",
+    "EXTERNAL_LINK": "رابط خارجي"
+  },
+  "BTN": {
+    "ADD": "إضافة",
+    "SAVE": "حفظ",
+    "SUBMIT": "إرسال",
+    "CANCEL": "إلغاء",
+    "UPLOAD": "تحميل",
+    "REMOVE": "إزالة",
+    "YES": "نعم",
+    "NO": "لا",
+    "OK": "موافق"
+  },
+  "MESSAGE": {
+    "SURE_DELETE": "هل أنت متأكد أنك تريد الحذف؟",
+    "FILE_SIZE": "لا يمكن أن يتجاوز حجم الملف {{param}} كيلوبايت."
+  },
+  "FIELD": {
+    "NAME": "الاسم"
+  },
+  "PAGINATION": {
+    "ITEMS_PER_PAGE": "العناصر في الصفحة:",
+    "NEXT_PAGE": "الصفحة التالية",
+    "PREV_PAGE": "الصفحة السابقة",
+    "FIRST_PAGE": "الصفحة الأولى",
+    "LAST_PAGE": "الصفحة الأخيرة"
+  }
+}
